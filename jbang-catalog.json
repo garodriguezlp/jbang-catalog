@@ -1,0 +1,9 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "maven-init": {
+      "script-ref": "maven-intializer/MavenInitializer.java"
+    }
+  },
+  "templates": {}
+}
