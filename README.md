@@ -14,4 +14,6 @@ Here's the lineup of all the nifty CLI tools I've crafted. Just click on the lin
 
 - [**payroll**](https://github.com/garodriguezlp/payroll)
 
+- [**banc**](https://github.com/garodriguezlp/banc)
+
 Enjoy exploring these tools, and happy coding!

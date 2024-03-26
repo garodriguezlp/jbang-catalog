@@ -3,6 +3,9 @@
   "aliases": {
     "payroll": {
       "script-ref": "https://github.com/garodriguezlp/payroll/blob/main/payroll.java"
+    },
+    "banc": {
+      "script-ref": "https://github.com/garodriguezlp/banc/blob/main/banc.java"
     }
   },
   "templates": {}
