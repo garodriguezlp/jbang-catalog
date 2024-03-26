@@ -1,9 +1,6 @@
 {
   "catalogs": {},
   "aliases": {
-    "maven-init": {
-      "script-ref": "maven-intializer/MavenInitializer.java"
-    },
     "payroll": {
       "script-ref": "https://github.com/garodriguezlp/payroll/blob/main/payroll.java"
     }
