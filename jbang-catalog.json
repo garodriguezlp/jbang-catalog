@@ -1,12 +1,16 @@
 {
-  "catalogs": {},
-  "aliases": {
-    "payroll": {
-      "script-ref": "https://github.com/garodriguezlp/payroll/blob/main/payroll.java"
+  "catalogs" : { },
+  "aliases" : {
+    "payroll" : {
+      "script-ref" : "https://github.com/garodriguezlp/payroll/blob/main/payroll.java"
     },
-    "banc": {
-      "script-ref": "https://github.com/garodriguezlp/banc/blob/main/banc.java"
+    "banc" : {
+      "script-ref" : "https://github.com/garodriguezlp/banc/blob/main/banc.java"
+    },
+    "irimo-snapshot" : {
+      "script-ref" : "irimo_snapshot.java",
+      "description" : "CLI tool for transforming personal financial data"
     }
   },
-  "templates": {}
+  "templates" : { }
 }
