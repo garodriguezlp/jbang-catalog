@@ -10,6 +10,10 @@
     "irimo-snapshot" : {
       "script-ref" : "irimo_snapshot.java",
       "description" : "CLI tool for transforming personal financial data"
+    },
+    "irimo" : {
+      "script-ref" : "irimo.java",
+      "description" : "CLI tool for transforming personal financial data"
     }
   },
   "templates" : { }
