@@ -9,7 +9,7 @@
     },
     "irimo-snapshot" : {
       "script-ref" : "irimo_snapshot.java",
-      "description" : "CLI tool for transforming personal financial data"
+      "description" : "CLI tool for consolidating personal financial data"
     },
     "irimo" : {
       "script-ref" : "irimo.java",
