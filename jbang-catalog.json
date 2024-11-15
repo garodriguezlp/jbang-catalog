@@ -13,7 +13,7 @@
     },
     "irimo" : {
       "script-ref" : "irimo.java",
-      "description" : "CLI tool for transforming personal financial data"
+      "description" : "CLI tool for consolidating personal financial data"
     }
   },
   "templates" : { }
