@@ -16,4 +16,10 @@ Here's the lineup of all the nifty CLI tools I've crafted. Just click on the lin
 
 - [**banc**](https://github.com/garodriguezlp/banc)
 
+- [**irimo-snapshot**](https://github.com/garodriguezlp/irimo-snapshot)
+
+- [**irimo**](https://github.com/garodriguezlp/irimo)
+
+- [**cheo**](https://github.com/garodriguezlp/cheo)
+
 Enjoy exploring these tools, and happy coding!
