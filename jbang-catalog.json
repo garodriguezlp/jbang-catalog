@@ -1,23 +1,26 @@
 {
-  "catalogs" : { },
-  "aliases" : {
-    "payroll" : {
-      "script-ref" : "https://github.com/garodriguezlp/payroll/blob/main/payroll.java"
+  "catalogs": {},
+  "aliases": {
+    "banc": {
+      "script-ref": "https://github.com/garodriguezlp/banc/blob/main/banc.java"
     },
-    "banc" : {
-      "script-ref" : "https://github.com/garodriguezlp/banc/blob/main/banc.java"
+    "cheo": {
+      "script-ref": "https://github.com/garodriguezlp/cheo/blob/main/cheo.java"
     },
-    "irimo-snapshot" : {
-      "script-ref" : "irimo_snapshot.java",
-      "description" : "CLI tool for consolidating personal financial data"
+    "notes": {
+      "script-ref": "https://github.com/garodriguezlp/notes/blob/main/notes.java"
     },
-    "irimo" : {
-      "script-ref" : "irimo.java",
-      "description" : "CLI tool for consolidating personal financial data"
+    "payroll": {
+      "script-ref": "https://github.com/garodriguezlp/payroll/blob/main/payroll.java"
     },
-    "cheo" : {
-      "script-ref" : "https://github.com/garodriguezlp/cheo/blob/main/cheo.java"
+    "irimo": {
+      "script-ref": "irimo.java",
+      "description": "CLI tool for consolidating personal financial data"
+    },
+    "irimo-snapshot": {
+      "script-ref": "irimo_snapshot.java",
+      "description": "CLI tool for consolidating personal financial data"
     }
   },
-  "templates" : { }
+  "templates": {}
 }
